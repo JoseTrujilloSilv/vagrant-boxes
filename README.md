@@ -37,3 +37,6 @@ Vagrant facilita la colaboración entre desarrolladores al permitirles compartir
 8. Reducción de la dependencia de la infraestructura local: 
 
 Vagrant permite ejecutar entornos de desarrollo en máquinas virtuales alojadas en la nube, lo que reduce la dependencia de la infraestructura local y permite un acceso remoto seguro y flexible a los entornos de desarrollo. 
+
+
+Instalación de Vagrant: https://developer.hashicorp.com/vagrant/install
