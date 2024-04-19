@@ -4,7 +4,7 @@ En esta sección, vas a encontrar diferentes cajas de vagrant para poder realiza
 
 ¿Porqué usar vagrant?
 
-A continuación, se destacan algunos de los motivos principales por los que usar Vagrant: 
+Motivos principales por los que usar Vagrant: 
 
 1. Entornos de desarrollo consistentes y reproducibles: 
 
